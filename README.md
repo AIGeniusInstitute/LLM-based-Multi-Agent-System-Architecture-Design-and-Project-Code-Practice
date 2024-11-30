@@ -15,15 +15,18 @@ AI 天才研究院 / AI Genius Institute, 2024
 
 陈光剑 编著
 
-# 序言
 
-## 内容提要
-
-## 推荐序
 
 ## 前言
 
+
+[0 前言.md](0%20%E5%89%8D%E8%A8%80.md)
+
+
+
 # 1 引言：LLM-based Multi-Agent系统概述
+
+[1 引言：LLM-based Multi-Agent系统概述.md](1%20%E5%BC%95%E8%A8%80%EF%BC%9ALLM-based%20Multi-Agent%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%BF%B0.md)
 
 ## 1.1 大语言模型(LLM)与Multi-Agent系统的融合
 ### 1.1.1 LLM的特性与能力
@@ -44,6 +47,8 @@ AI 天才研究院 / AI Genius Institute, 2024
 ## 1.4 本书结构概览
 
 # 2 LLM-based Multi-Agent系统的理论基础
+
+[2 LLM-based Multi-Agent系统的理论基础.md](2%20LLM-based%20Multi-Agent%E7%B3%BB%E7%BB%9F%E7%9A%84%E7%90%86%E8%AE%BA%E5%9F%BA%E7%A1%80.md)
 
 ## 2.1 大语言模型基础
 ### 2.1.1 Transformer架构
@@ -66,6 +71,8 @@ AI 天才研究院 / AI Genius Institute, 2024
 ### 2.4.3 涌现行为与群体决策
 
 # 3 LLM-based Multi-Agent系统架构设计
+
+[3 LLM-based Multi-Agent系统架构设计.md](3%20LLM-based%20Multi-Agent%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1.md)
 
 ## 3.1 总体架构设计原则
 ### 3.1.1 模块化与可扩展性
@@ -94,6 +101,8 @@ AI 天才研究院 / AI Genius Institute, 2024
 
 # 4 LLM集成技术
 
+[4 LLM集成技术.md](4%20LLM%E9%9B%86%E6%88%90%E6%8A%80%E6%9C%AF.md)
+
 ## 4.1 LLM选择与评估
 ### 4.1.1 开源vs专有LLM比较
 ### 4.1.2 特定任务性能评估
@@ -120,6 +129,8 @@ AI 天才研究院 / AI Genius Institute, 2024
 ### 4.5.3 分布式LLM部署
 
 # 5 Agent设计与实现
+
+[5 Agent设计与实现.md](5%20Agent%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E7%8E%B0.md)
 
 ## 5.1 Agent角色与职责定义
 ### 5.1.1 功能型Agent设计
@@ -148,6 +159,8 @@ AI 天才研究院 / AI Genius Institute, 2024
 
 # 6 Multi-Agent协作机制
 
+[6 Multi-Agent协作机制.md](6%20Multi-Agent%E5%8D%8F%E4%BD%9C%E6%9C%BA%E5%88%B6.md)
+
 ## 6.1 基于对话的协作框架
 ### 6.1.1 对话协议设计
 ### 6.1.2 话题管理与对话流控制
@@ -174,6 +187,8 @@ AI 天才研究院 / AI Genius Institute, 2024
 ### 6.5.3 仲裁机制设计
 
 # 7 用户交互与系统接口
+
+[7 用户交互与系统接口.md](7%20%E7%94%A8%E6%88%B7%E4%BA%A4%E4%BA%92%E4%B8%8E%E7%B3%BB%E7%BB%9F%E6%8E%A5%E5%8F%A3.md)
 
 ## 7.1 自然语言交互设计
 ### 7.1.1 多轮对话管理
@@ -202,6 +217,8 @@ AI 天才研究院 / AI Genius Institute, 2024
 
 # 8 系统评估与优化
 
+[8 系统评估与优化.md](8%20%E7%B3%BB%E7%BB%9F%E8%AF%84%E4%BC%B0%E4%B8%8E%E4%BC%98%E5%8C%96.md)
+
 ## 8.1 性能指标体系
 ### 8.1.1 任务完成质量评估
 ### 8.1.2 效率与响应时间分析
@@ -228,6 +245,8 @@ AI 天才研究院 / AI Genius Institute, 2024
 ### 8.5.3 自动化运维与监控
 
 # 9 案例研究与最佳实践
+
+[9 案例研究与最佳实践.md](9%20%E6%A1%88%E4%BE%8B%E7%A0%94%E7%A9%B6%E4%B8%8E%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5.md)
 
 ## 9.1 智能客户服务系统
 ### 9.1.1 多Agent协作处理客户询问
@@ -256,6 +275,8 @@ AI 天才研究院 / AI Genius Institute, 2024
 
 # 10 前沿研究方向与未来展望
 
+[10 前沿研究方向与未来展望.md](10%20%E5%89%8D%E6%B2%BF%E7%A0%94%E7%A9%B6%E6%96%B9%E5%90%91%E4%B8%8E%E6%9C%AA%E6%9D%A5%E5%B1%95%E6%9C%9B.md)
+
 ## 10.1 大规模LLM-based Multi-Agent系统
 ### 10.1.1 可扩展性挑战
 ### 10.1.2 分布式协作框架
@@ -282,6 +303,8 @@ AI 天才研究院 / AI Genius Institute, 2024
 ### 10.5.3 智能物联网生态系统
 
 # 11 项目实践指南
+
+[11 项目实践指南.md](11%20%E9%A1%B9%E7%9B%AE%E5%AE%9E%E8%B7%B5%E6%8C%87%E5%8D%97.md)
 
 ## 11.1 开发环境搭建
 ### 11.1.1 LLM接口配置
@@ -310,12 +333,16 @@ AI 天才研究院 / AI Genius Institute, 2024
 
 # 12 总结与展望
 
+[12 总结与展望.md](12%20%E6%80%BB%E7%BB%93%E4%B8%8E%E5%B1%95%E6%9C%9B.md)
+
 ## 12.1 LLM-based Multi-Agent系统设计最佳实践
 ## 12.2 常见陷阱与解决方案
 ## 12.3 未来研究方向建议
 ## 12.4 工业应用路线图
 
 # 附录
+
+[附录.md](%E9%99%84%E5%BD%95.md)
 
 ## A. LLM API参考
 ## B. Multi-Agent框架比较
@@ -325,6 +352,8 @@ AI 天才研究院 / AI Genius Institute, 2024
 ## F. 参考文献
 
 # 后记
+
+[后记.md](%E5%90%8E%E8%AE%B0.md)
 
 ----
 
